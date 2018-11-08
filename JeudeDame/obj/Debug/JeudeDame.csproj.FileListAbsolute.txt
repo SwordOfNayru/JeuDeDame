@@ -1,0 +1,8 @@
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\bin\Debug\JeudeDame.exe.config
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\obj\Debug\JeudeDame.csprojResolveAssemblyReference.cache
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\bin\Debug\JeudeDame.exe
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\bin\Debug\JeudeDame.pdb
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\bin\Debug\clavier.dll
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\bin\Debug\menu.dll
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\obj\Debug\JeudeDame.exe
+H:\dev\projet\JeuDeDame\JeudeDame\JeudeDame\obj\Debug\JeudeDame.pdb
